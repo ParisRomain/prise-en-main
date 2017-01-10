@@ -8,5 +8,14 @@
     <header>
       <h1>Mon Site GitHub</h1>
     </header>
+    <main>
+      <section>
+        <h2>Ma première section</h2>
+
+      </section>
+      <footer>
+        under MIT licence.
+      </footer>
+    </main>
   </body>
 </html>
